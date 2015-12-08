@@ -21,6 +21,11 @@ koa uses the `cookies` module to operate cookies.
 ```
 https://github.com/expressjs/cookies
 ```
+To learn more about Koa context (ctx) see link below.
+
+```
+http://koajs.com/#context
+```
 
 APIs:
 
